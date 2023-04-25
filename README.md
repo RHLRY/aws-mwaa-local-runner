@@ -54,6 +54,7 @@ VERSION
 ## Get started
 
 ```bash
+# CLONE INSIDE LINUX FILE SYSTEM EX:- \\wsl.localhost\Ubuntu\home\ubuntu\workdir
 git clone https://github.com/aws/aws-mwaa-local-runner.git
 cd aws-mwaa-local-runner
 ```
